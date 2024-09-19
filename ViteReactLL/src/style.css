@@ -1,0 +1,22 @@
+.lista{
+    border: 1px solid black;
+    width:60%;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    margin:auto;
+   
+}
+.lista li{
+    padding: 30px;
+    list-style-type:none;
+    margin: auto;
+  
+}
+.Box{
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
